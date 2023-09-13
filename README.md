@@ -133,9 +133,9 @@ ch = 1;
 
 ## OUTPUT
 
-![image](https://github.com/JaganSivakumaran/Experiment-2/assets/134905062/df26cca6-bd23-4519-99af-3102b81f5255)
-![image](https://github.com/JaganSivakumaran/Experiment-2/assets/134905062/11955020-59c6-4cb0-b610-a55f620a2d5e)
-![image](https://github.com/JaganSivakumaran/Experiment-2/assets/134905062/88498b51-3945-4809-8bca-f1dcd3e28125)
+(https://github.com/JaganSivakumaran/Experiment-2/assets/134905062/df26cca6-bd23-4519-99af-3102b81f5255)
+(https://github.com/JaganSivakumaran/Experiment-2/assets/134905062/11955020-59c6-4cb0-b610-a55f620a2d5e)
+(https://github.com/JaganSivakumaran/Experiment-2/assets/134905062/88498b51-3945-4809-8bca-f1dcd3e28125)
 
 
 
