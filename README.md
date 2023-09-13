@@ -135,10 +135,9 @@ ch = 1;
 ```
 
 ## OUTPUT
-
-(https://github.com/JaganSivakumaran/Experiment-2/assets/134905062/df26cca6-bd23-4519-99af-3102b81f5255)
-(https://github.com/JaganSivakumaran/Experiment-2/assets/134905062/11955020-59c6-4cb0-b610-a55f620a2d5e)
-(https://github.com/JaganSivakumaran/Experiment-2/assets/134905062/88498b51-3945-4809-8bca-f1dcd3e28125)
+![image](https://github.com/JaganSivakumaran/Experiment-2/assets/134905062/37420a96-b48a-4fc8-a361-4670c1520ec7)
+![image](https://github.com/JaganSivakumaran/Experiment-2/assets/134905062/ea5aaecf-5571-45af-aee6-a5d817fff88c)
+![image](https://github.com/JaganSivakumaran/Experiment-2/assets/134905062/f424d2e5-6fd5-49db-b125-44f3b96b829f)
 
 
 
