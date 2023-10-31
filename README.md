@@ -18,8 +18,8 @@ activity_main.xml Step 6: Display message give in MainActivity file. Step 7: Sav
 
 ## Program:
 
-## Developed By: Hiba Rajarajeswari
-## Reg.No:212221040056
+## Developed By: Jagan S
+## Reg.No:212221040061
 
 ## activity_main.xml
 ```
